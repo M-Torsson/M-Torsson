@@ -1,19 +1,19 @@
 <div align="center">
 
-<h1 style="border:none; margin-bottom:8px;">
+<h1 style="border:none; margin-bottom:5px;">
   Hi 
   <img src="assets/icons/wave1.png#gh-light-mode-only" width="35" height="35"/>
   <img src="assets/icons/wave.png#gh-dark-mode-only" width="35" height="35"/>, 
   I'm Muthana
 </h1>
 
-<h2 style="margin-top:0; font-weight:600;">
+<h2 style="border:none; margin-top:0; font-weight:600;">
   Founder @ CodeCore
 </h2>
 
-<hr style="width:60%; border:none; border-top:1px solid #d0d7de; margin:18px auto 30px auto;">
+<hr style="width:60%; border:none; border-top:1px solid #d0d7de; margin:20px auto 30px auto;">
 
-<h3 style="margin-top:0; font-weight:400;">
+<h3 style="border:none; margin-top:0; font-weight:400;">
   Full-Stack Developer | Flutter • FastAPI • React • Cloud
 </h3>
 
