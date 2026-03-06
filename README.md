@@ -54,20 +54,19 @@
 
 ### Languages
 <p align="center">
-  <img src="assets/icons/java-script.png" alt="JavaScript" width="28" height="28" align="absmiddle"/>
-  <code>JavaScript</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-dart-100.png" alt="Dart" width="28" height="28" align="absmiddle"/>
-  <code>Dart</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/python.png" alt="Python" width="28" height="28" align="absmiddle"/>
   <code>Python</code>
+  <img src="assets/icons/java-script.png" alt="JavaScript" width="28" height="28" align="absmiddle"/>
+  <code>JavaScript</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/html-5.png" alt="HTML5" width="28" height="28" align="absmiddle"/>
   <code>HTML5</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/css-3.png" alt="CSS3" width="28" height="28" align="absmiddle"/>
   <code>CSS3</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/icons8-dart-100.png" alt="Dart" width="28" height="28" align="absmiddle"/>
+  <code>Dart</code>
 </p>
 
 <br/>
