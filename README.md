@@ -1,15 +1,22 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 5px; padding-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana</h1>
-  <p style="margin-top: 25px; margin-bottom: 8px;">
-    <strong style="font-size: 1.5em;">Founder @ CodeCore</strong>
-  </p>
-  <hr style="width: 60%; border: none; border-top: 1px solid #d0d7de; margin: 15px auto 30px auto;">
-  <h3 style="border: none; margin-top: 0; font-weight: 400;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
-</div>
-<br/>
 
-<div align="center">
-  <h1><img src="assets/icons/about-us(1).png#gh-light-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/><img src="assets/icons/about-us.png#gh-dark-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/> About Me:</h1>
+<h1 style="border:none; margin-bottom:8px;">
+  Hi 
+  <img src="assets/icons/wave1.png#gh-light-mode-only" width="35" height="35"/>
+  <img src="assets/icons/wave.png#gh-dark-mode-only" width="35" height="35"/>, 
+  I'm Muthana
+</h1>
+
+<h2 style="margin-top:0; font-weight:600;">
+  Founder @ CodeCore
+</h2>
+
+<hr style="width:60%; border:none; border-top:1px solid #d0d7de; margin:18px auto 30px auto;">
+
+<h3 style="margin-top:0; font-weight:400;">
+  Full-Stack Developer | Flutter • FastAPI • React • Cloud
+</h3>
+
 </div>
 
 <table style="width: 100%; border: none;">
